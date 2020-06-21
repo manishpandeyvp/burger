@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19264178272",
+    "firebase_url": "https://burger-2dd4b.firebaseio.com",
+    "project_id": "burger-2dd4b",
+    "storage_bucket": "burger-2dd4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19264178272:android:e8f6c4f3941572bceedb05",
+        "android_client_info": {
+          "package_name": "com.manishpandeyvp.burger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19264178272-551pmlm6uvqv8g4jot5oncojqguerc15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manishpandeyvp.burger",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "19264178272-2crqmrtge0ks7v5iak0b72hhkl4edq11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5PsXntSLvhJO3B-7mLtmQPiiiUzUWAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19264178272-2crqmrtge0ks7v5iak0b72hhkl4edq11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
